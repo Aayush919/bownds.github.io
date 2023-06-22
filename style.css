@@ -24,8 +24,6 @@
     z-index: 9999;
     transition: all ease-out 0.8s;
     display: none;
-    position: fixed;
-    top: 0px;
   }
   #full h1{
     font-size: 10vw;
